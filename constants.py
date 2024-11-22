@@ -1,0 +1,2 @@
+LOG_PATH = "path/to/your/logs"                  # Set this to the path where you want to save the logs
+PRETRAINED_PATH = "path/to/pretrained_model/"   # Set this to the path where the pretrained model is saved
