@@ -1,21 +1,21 @@
 {
   "wesad": {
-    "train": "/mnt/sting/jaehyun/imfl/dataset/wesad/wesad_train_scaled.csv",
-    "test": "/mnt/sting/jaehyun/imfl/dataset/wesad/wesad_test_scaled.csv"
+    "train": "/specify/path/to/your/dataset",
+    "test": "/specify/path/to/your/dataset"
   },
 
   "realworldhar": {
-    "all": "/mnt/sting/jaehyun/imfl/dataset/realworld/5parts_accgyro.csv"
+    "all": "/specify/path/to/your/dataset"
   },
 
   "pamap2": {
-    "all": "/mnt/sting/jaehyun/imfl/dataset/pamap2/8users_3parts_accgyro.csv"
+    "all": "/specify/path/to/your/dataset"
   },
 
   "sleepedf20": {
-    "train": "/mnt/sting/adiorz/FLISM/datasets/sleepedf20/sleepedf20_standard_scaled_train_ws:30s.pt",
-    "test": "/mnt/sting/adiorz/FLISM/datasets/sleepedf20/sleepedf20_standard_scaled_test_ws:30s.pt",
-    "train_user_groups": "/mnt/sting/adiorz/FLISM/datasets/sleepedf20/sleepedf20_standard_scaled_train_ws:30s_user_groups.json",
-    "test_user_groups": "/mnt/sting/adiorz/FLISM/datasets/sleepedf20/sleepedf20_standard_scaled_test_ws:30s_user_groups.json"
+    "train": "/specify/path/to/your/dataset",
+    "test": "/specify/path/to/your/dataset",
+    "train_user_groups": "/specify/path/to/your/dataset",
+    "test_user_groups": "/specify/path/to/your/dataset"
   }
 }
